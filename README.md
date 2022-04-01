@@ -1,27 +1,30 @@
-# MacQish
+# MacQish :partying_face:
 
-### Author  : @LuciMadMax
+### Setup 🤖
 
-##### MacQish is Linux Based MacSpoofing Tools
+```Bash
+git clone https://github.com/DedSec-OS/MacQish
+```
+```Bash
+cd MacQish
+```
+```Bash
+sudo python3 setup.py
+```
 
-##### Setup
+### Use 🖥️
 
-###### git clone https://github.com/DedSec-OS/MacQish
+```Bash
+macqish  -i  interface  -m  new mac  or  auto
+```
 
-###### cd MacQish
-
-###### sudo python3 setup.py
-
-
-##### Use
-
-###### macqish  -i  interface  -m  new mac  or  auto
-
-##### example:
-
-###### macqish -i wlan0 -m 0c:1d:22:3d:12:0b
-
-###### macqish -i wlan0 -m auto
-
-###### macqish -a auto 
-
+### example 🥇
+```Bash
+macqish -i wlan0 -m 0c:1d:22:3d:12:0b
+```
+```Bash
+macqish -i wlan0 -m auto
+```
+```Bash
+macqish -a auto 
+```
