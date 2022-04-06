@@ -7,7 +7,7 @@
   ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
   ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat&logo=alpine-linux&logoColor=white)
   ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=flat&logo=tails&logoColor=white)
-  <a href="https://youtu.be/c/talearners" target="_blank">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)</a>
+  <a href="https://youtube.com/c/talearners" target="_blank">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)</a>
 
 </span>
 
