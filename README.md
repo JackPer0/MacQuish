@@ -1,4 +1,6 @@
-# MacQish :partying_face:
+<h1 align="center">MacQish :partying_face:</h1>
+
+<img src="https://shields.io/github/pipenv/locked/python-version/:user/:repo">
 
 ### Setup 🤖
 
